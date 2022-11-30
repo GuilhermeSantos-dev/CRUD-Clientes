@@ -11,7 +11,7 @@ import com.mysql.jdbc.PreparedStatement;
 import br.com.contatos.FabricaDeConexao.FabricaDeConexao;
 import br.com.contatos.model.Contato;
 
-public class contatosDAO {
+public class ContatosDAO {
 
 	/*
 	 * CRIANDO CRUD
